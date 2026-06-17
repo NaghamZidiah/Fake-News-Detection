@@ -66,6 +66,11 @@ Model comparison:
 
 Academic NLP project developed as part of Data Science and Artificial Intelligence studies.
 
+## Open in Google Colab
+
+🔗 Google Colab Notebook:
+[https://colab.research.google.com/drive/12hJrJufV4wCgnEDkfceEfLtADgkfJU8x](https://colab.research.google.com/drive/12hJrJufV4wCgnEDkfceEfLtADgkfJU8x?usp=sharing)
+
 ## Author
 
 Nagham Zidiah
