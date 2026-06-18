@@ -74,5 +74,3 @@ Academic NLP project developed as part of Data Science and Artificial Intelligen
 ## Author
 
 Nagham Zidiah
-
-Data Science & Artificial Intelligence Student
