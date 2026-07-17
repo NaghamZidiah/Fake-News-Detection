@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project focuses on detecting fake news articles written in Arabic using Natural Language Processing (NLP) and Machine Learning techniques.
+This project presents an Arabic Fake News Detection system developed using Natural Language Processing (NLP) and Machine Learning techniques. It classifies Arabic news articles as real or fake using an end-to-end text classification pipeline.
 
-The dataset contains Arabic news articles labeled as either real or fake. Several preprocessing techniques were applied to prepare the text before training classification models.
+The project includes text preprocessing, including Arabic text normalization, stopword removal, stemming, and TF-IDF feature extraction. Several machine learning models were evaluated to identify the best-performing model. This project demonstrates my practical experience in Arabic NLP, text classification, and machine learning using Python.
 
 ## Dataset
 
